@@ -22,11 +22,13 @@ Information
     :target: https://pypi.python.org/django-blockreferralspam/pitble
 
 
-Django Spam Referral Blocker remove all Spam in your Google Analytics statics. 
+Django Spam Referral Blocker remove all Spam in your Google Analytics statics. You could find many tutorials to remove referral SPAM with .htaccess, apache, nginx.
+
+If you deploy your website in Google App Engine, this App could help you
+
+.. image:: http://www.appscale.com/wp-content/uploads/2013/10/google-app-engine-logo.png
 
 It use `This blacklist <https://github.com/piwik/referrer-spam-blacklist>`_
-
-
 
 Installation
 ============
