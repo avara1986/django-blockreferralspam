@@ -14,6 +14,8 @@ Information
 .. image:: https://coveralls.io/repos/avara1986/django-blockreferralspam/badge.svg?branch=master&service=github 
     :target: https://coveralls.io/github/avara1986/django-blockreferralspam?branch=master
 
+.. image:: https://badge.fury.io/py/django-blockreferralspam.svg
+    :target: http://badge.fury.io/py/django-blockreferralspam
 
 
 Django Spam Referral Blocker removes all Spam in your Google Analytics statics. You could find many tutorials to remove referral SPAM with .htaccess, apache, nginx.
@@ -29,6 +31,10 @@ If you deploy your website in Google App Engine, this App could help you.
 
 Installation
 ============
+
+::
+
+    pip install django-blockreferralspam
 
 * In your settings:
 
