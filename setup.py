@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Copyright (c) 2014 by Pablo Martín <goinnn@gmail.com>
+# Copyright (c) 2014 by Alberto Vara <a.vara.1986@gmail.com>
 
 
 import os
