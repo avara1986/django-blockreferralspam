@@ -6,6 +6,6 @@ docopt==0.6.2
 pluggy==0.3.0
 py==1.4.30
 PyYAML==3.11
-requests==2.7.0
+requests==2.20.0
 tox==2.1.1
 virtualenv==13.1.0
